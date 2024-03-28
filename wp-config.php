@@ -64,10 +64,10 @@ define( 'DB_NAME', 'nobleffl' );
 define( 'DB_USER', 'Noble' );
 
 /** Mot de passe de la base de données MySQL. */
-define( 'DB_PASSWORD', 'root' );
+define( 'DB_PASSWORD', 'FFL-YZVZUZVDJSDIDBZOD' );
 
 /** Adresse de l’hébergement MySQL. */
-define( 'DB_HOST', 'FFL-YZVZUZVDJSDIDBZOD' );
+define( 'DB_HOST', '173.212.211.173:3306' );
 
 /** Jeu de caractères à utiliser par la base de données lors de la création des tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
