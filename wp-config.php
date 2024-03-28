@@ -16,8 +16,8 @@ define( 'WP_ALLOW_REPAIR', false );
 
 # BEGIN SecuPress locations
 define( 'RELOCATE', false );
-define( 'WP_SITEURL', 'http://localhost/French_F1_League' );
-define( 'WP_HOME', 'http://localhost/French_F1_League' );
+define( 'WP_SITEURL', 'https://frenchf1league.ezhost-app.com/' );
+define( 'WP_HOME', 'https://frenchf1league.ezhost-app.com/' );
 # END SecuPress
 
 
