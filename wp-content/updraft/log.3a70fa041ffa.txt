@@ -1,0 +1,396 @@
+0000.000 (0) Opened log file at time: Thu, 28 Mar 2024 17:54:17 +0000 on http://localhost/French_F1_League
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.2 WP: 6.4.3 PHP: 8.1.0 (apache2handler, Windows NT ESTEBAN 6.2 build 9200 (Windows 8 Home Premium Edition) AMD64) MySQL: 5.7.24 (max packet size=1048576) WPLANG: fr_FR Server: Apache/2.4.33 (Win64) OpenSSL/1.0.2u mod_fcgid/2.3.9 PHP/8.1.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 75.6M | 78M) multisite: N openssl: OpenSSL 1.1.1i  8 Dec 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 265317.1 MB
+0000.006 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.008 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.095 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1711559412, seconds_ago=89045)
+0000.099 (0) Set semaphore last lock (fd) time to 2024-03-28 17:54:17
+0000.100 (0) Semaphore lock (fd) complete
+0000.103 (0) Backup run: resumption=0, nonce=3a70fa041ffa, file_nonce=3a70fa041ffa begun at=1711648457 (0s ago), job type=backup
+0000.108 (0) Scheduling a resumption (1) after 300 seconds (1711648757) in case this run gets aborted
+0000.130 (0) Checking if we have a zip executable available
+0000.132 (0) Creation of backups of directories: beginning
+0000.137 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.755 (0) Total entities for the zip file: 1313 directories, 5807 files (0 skipped as non-modified), 111.6 MB
+0002.766 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0002.891 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 100 files added (on-disk size: 223.9 KB)
+0002.940 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 200 files added (on-disk size: 223.9 KB)
+0002.992 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 300 files added (on-disk size: 223.9 KB)
+0003.038 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 400 files added (on-disk size: 223.9 KB)
+0003.089 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 500 files added (on-disk size: 223.9 KB)
+0003.094 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.5 MB, 5807 files batched, 507 (508) added so far); re-opening (prior size: 223.9 KB)
+0010.877 (0) A useful amount of data was added after this amount of zip processing: 8.5 s (normalised: 8.3 s, rate: 3067.5 KB/s)
+0010.927 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 600 files added (on-disk size: 5371.8 KB)
+0010.978 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 700 files added (on-disk size: 5371.8 KB)
+0011.039 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 800 files added (on-disk size: 5371.8 KB)
+0011.079 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 900 files added (on-disk size: 5371.8 KB)
+0011.120 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 1000 files added (on-disk size: 5371.8 KB)
+0011.166 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 1100 files added (on-disk size: 5371.8 KB)
+0011.209 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 1200 files added (on-disk size: 5371.8 KB)
+0011.249 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 1300 files added (on-disk size: 5371.8 KB)
+0011.287 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 1400 files added (on-disk size: 5371.8 KB)
+0011.301 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (28.5 MB, 5807 files batched, 919 (1427) added so far); re-opening (prior size: 5371.8 KB)
+0021.480 (0) A useful amount of data was added after this amount of zip processing: 11.1 s (normalised: 9.7 s, rate: 2626.6 KB/s)
+0021.535 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 1500 files added (on-disk size: 12650.6 KB)
+0021.590 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 1600 files added (on-disk size: 12650.6 KB)
+0021.640 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 1700 files added (on-disk size: 12650.6 KB)
+0021.686 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 1800 files added (on-disk size: 12650.6 KB)
+0021.741 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 1900 files added (on-disk size: 12650.6 KB)
+0021.786 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 2000 files added (on-disk size: 12650.6 KB)
+0021.830 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 2100 files added (on-disk size: 12650.6 KB)
+0021.876 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 2200 files added (on-disk size: 12650.6 KB)
+0021.926 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 2300 files added (on-disk size: 12650.6 KB)
+0021.970 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 2400 files added (on-disk size: 12650.6 KB)
+0021.984 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (9.5 MB, 5807 files batched, 1001 (2428) added so far); re-opening (prior size: 12650.6 KB)
+0032.530 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 2500 files added (on-disk size: 15128.5 KB)
+0032.568 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 2600 files added (on-disk size: 15128.5 KB)
+0032.609 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 2700 files added (on-disk size: 15128.5 KB)
+0032.647 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 2800 files added (on-disk size: 15128.5 KB)
+0032.687 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 2900 files added (on-disk size: 15128.5 KB)
+0032.726 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 3000 files added (on-disk size: 15128.5 KB)
+0032.775 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 3100 files added (on-disk size: 15128.5 KB)
+0032.823 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 3200 files added (on-disk size: 15128.5 KB)
+0032.867 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 3300 files added (on-disk size: 15128.5 KB)
+0032.906 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 3400 files added (on-disk size: 15128.5 KB)
+0032.918 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.8 MB, 5807 files batched, 1001 (3429) added so far); re-opening (prior size: 15128.5 KB)
+0044.904 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 3500 files added (on-disk size: 19362 KB)
+0044.946 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 3600 files added (on-disk size: 19362 KB)
+0044.991 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 3700 files added (on-disk size: 19362 KB)
+0045.030 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 3800 files added (on-disk size: 19362 KB)
+0045.070 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 3900 files added (on-disk size: 19362 KB)
+0045.111 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 4000 files added (on-disk size: 19362 KB)
+0045.156 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 4100 files added (on-disk size: 19362 KB)
+0045.197 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 4200 files added (on-disk size: 19362 KB)
+0045.236 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 4300 files added (on-disk size: 19362 KB)
+0045.278 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 4400 files added (on-disk size: 19362 KB)
+0045.291 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (21.8 MB, 5807 files batched, 1001 (4430) added so far); re-opening (prior size: 19362 KB)
+0061.523 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 4500 files added (on-disk size: 25708.7 KB)
+0061.565 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 4600 files added (on-disk size: 25708.7 KB)
+0061.615 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 4700 files added (on-disk size: 25708.7 KB)
+0061.660 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 4800 files added (on-disk size: 25708.7 KB)
+0061.704 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 4900 files added (on-disk size: 25708.7 KB)
+0061.750 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 5000 files added (on-disk size: 25708.7 KB)
+0061.796 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 5100 files added (on-disk size: 25708.7 KB)
+0061.849 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 5200 files added (on-disk size: 25708.7 KB)
+0061.892 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 5300 files added (on-disk size: 25708.7 KB)
+0061.932 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 5400 files added (on-disk size: 25708.7 KB)
+0061.947 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12 MB, 5807 files batched, 1001 (5431) added so far); re-opening (prior size: 25708.7 KB)
+0069.412 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 5500 files added (on-disk size: 29425.8 KB)
+0069.457 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 5600 files added (on-disk size: 29425.8 KB)
+0069.498 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 5700 files added (on-disk size: 29425.8 KB)
+0069.544 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.tmp: 5800 files added (on-disk size: 29425.8 KB)
+0072.713 (0) Creating zip file manifest (backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.list-temp.tmp)
+0072.736 (0) Successfully created zip file manifest (size: 473579)
+0072.956 (0) Created plugins zip (0) - 29895.1 KB in 72.8 s (410.6 KB/s) (sha1: 47ace612882d734a9d5ce0bf6e61441c9bffbd74, sha256: f5a1987adc4abbcda61dfc856769bd00b5663f319130c777bb4dd31e7e4d31ba)
+0072.963 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0072.964 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-24d9b0481f960b9b5942a6f9399bb007)
+0074.254 (0) Google Drive: quota usage: used=1728.4 MB, total=15360 MB, available=13631.6 MB
+0074.261 (0) Google Drive: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip: Attempting to upload to Google Drive (into folder id: 1D0i4qUT-FR2X3YlVsM5RLrQH05ST0oS1)
+0074.869 (0) Googledrive chunked upload: 3.4 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 79.2 / 82)
+0075.154 (0) Googledrive chunked upload: 10.3 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 79.2 / 82)
+0075.521 (0) Googledrive chunked upload: 24 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 79.2 / 82)
+0076.060 (0) Googledrive chunked upload: 51.4 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 79.2 / 82)
+0078.180 (0) Googledrive chunked upload: 100 % uploaded (15728640)
+0078.184 (0) Google Drive: OK: Archive backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip uploaded in 3.92 seconds
+0078.185 (0) Recording as successfully uploaded: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip
+0078.190 (0) Deleting local file: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip: OK
+0078.197 (0) Beginning creation of dump of themes (split every: 400 MB)
+0078.248 (0) Total entities for the zip file: 22 directories, 156 files (0 skipped as non-modified), 3.6 MB
+0078.295 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0079.879 (0) Creating zip file manifest (backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-themes.zip.list-temp.tmp)
+0079.881 (0) Successfully created zip file manifest (size: 10157)
+0079.912 (0) Created themes zip (0) - 3311 KB in 1.7 s (1935.1 KB/s) (sha1: 1983d4656d714a3c1610775df778fe37bd61d1c5, sha256: b347e1375264a46e65dafe90b1d7e3b4d7ec8bab780d766034773abb6087da45)
+0079.916 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0079.917 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-24d9b0481f960b9b5942a6f9399bb007)
+0080.188 (0) Google Drive: quota usage: used=1757.6 MB, total=15360 MB, available=13602.4 MB
+0080.190 (0) Google Drive: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-themes.zip: Attempting to upload to Google Drive (into folder id: 1D0i4qUT-FR2X3YlVsM5RLrQH05ST0oS1)
+0080.809 (0) Googledrive chunked upload: 30.9 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 78.3 / 82)
+0081.047 (0) Googledrive chunked upload: 92.8 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 78.3 / 82)
+0082.365 (0) Googledrive chunked upload: 100 % uploaded (3145728)
+0082.369 (0) Google Drive: OK: Archive backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-themes.zip uploaded in 2.18 seconds
+0082.370 (0) Recording as successfully uploaded: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-themes.zip
+0082.373 (0) Deleting local file: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-themes.zip: OK
+0082.378 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0082.379 (0) Looking for candidates to backup in: C:\MAMP\htdocs\french_f1_league/wp-content/uploads
+0082.381 (0) finding files: 2024: adding to list (1)
+0082.381 (0) finding files: ac_assets: adding to list (2)
+0082.382 (0) finding files: elementor: adding to list (3)
+0082.383 (0) finding files: essential-addons-elementor: adding to list (4)
+0082.384 (0) finding files: unlimited_elements_cache: adding to list (5)
+0082.385 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0082.430 (0) Total entities for the zip file: 9 directories, 103 files (0 skipped as non-modified), 48.3 MB
+0082.457 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (44.8 MB, 103 files batched, 54 (54) added so far); re-opening (prior size: 0 KB)
+0082.638 (0) A useful amount of data was added after this amount of zip processing: 0.3 s (normalised: 0.2 s, rate: 163064.5 KB/s)
+0082.640 (0) Performance is good - will increase the amount of data we attempt to batch (time=0.28134894371033, normalised_time=0.15699306638558, max_time=82.638392925262, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0082.662 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-uploads.zip.tmp: 100 files added (on-disk size: 45849.4 KB)
+0082.928 (0) Creating zip file manifest (backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-uploads.zip.list-temp.tmp)
+0082.930 (0) Successfully created zip file manifest (size: 6475)
+0083.312 (0) Created uploads zip (0) - 49320.1 KB in 0.9 s (53454.6 KB/s) (sha1: a905e0aa064de69c4c6f582246bee1a498059a6f, sha256: 3fcbc0fc98dfd9ad4209b2283cb544ff8036e7641649685bf4c0f25241f79ed0)
+0083.318 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0083.320 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-24d9b0481f960b9b5942a6f9399bb007)
+0083.549 (0) Google Drive: quota usage: used=1760.9 MB, total=15360 MB, available=13599.1 MB
+0083.551 (0) Google Drive: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-uploads.zip: Attempting to upload to Google Drive (into folder id: 1D0i4qUT-FR2X3YlVsM5RLrQH05ST0oS1)
+0084.142 (0) Googledrive chunked upload: 2.1 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 78.3 / 82)
+0084.393 (0) Googledrive chunked upload: 6.2 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 78.3 / 82)
+0084.695 (0) Googledrive chunked upload: 14.5 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 78.3 / 82)
+0085.232 (0) Googledrive chunked upload: 31.1 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 78.3 / 82)
+0085.987 (0) Googledrive chunked upload: 64.4 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 78.3 / 82)
+0087.924 (0) Googledrive chunked upload: 100 % uploaded (32505856)
+0087.928 (0) Google Drive: OK: Archive backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-uploads.zip uploaded in 4.38 seconds
+0087.930 (0) Recording as successfully uploaded: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-uploads.zip
+0087.936 (0) Deleting local file: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-uploads.zip: OK
+0087.943 (0) Beginning creation of dump of mu-plugins (split every: 400 MB)
+0087.949 (0) Total entities for the zip file: 1 directories, 2 files (0 skipped as non-modified), 0 MB
+0087.961 (0) Creating zip file manifest (backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-mu-plugins.zip.list-temp.tmp)
+0087.963 (0) Successfully created zip file manifest (size: 146)
+0087.970 (0) Created mu-plugins zip (0) - 1.6 KB in 0 s (70.2 KB/s) (sha1: 29fe0de0009681a5f2ecd86a0b28241c0d2d543b, sha256: 505d8edd88d75665ba21a799cded64380c0e2c4f638f598148e355629719f4d9)
+0087.976 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0087.978 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-24d9b0481f960b9b5942a6f9399bb007)
+0088.238 (0) Google Drive: quota usage: used=1809 MB, total=15360 MB, available=13551 MB
+0088.239 (0) Google Drive: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-mu-plugins.zip: Attempting to upload to Google Drive (into folder id: 1D0i4qUT-FR2X3YlVsM5RLrQH05ST0oS1)
+0090.065 (0) Googledrive chunked upload: 100 % uploaded
+0090.069 (0) Google Drive: OK: Archive backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-mu-plugins.zip uploaded in 1.83 seconds
+0090.070 (0) Recording as successfully uploaded: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-mu-plugins.zip
+0090.073 (0) Deleting local file: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-mu-plugins.zip: OK
+0090.078 (0) Beginning backup of other directories found in the content directory (index: 0)
+0090.079 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0090.080 (0) Looking for candidates to backup in: C:\MAMP\htdocs\french_f1_league/wp-content
+0090.081 (0) finding files: index.php: adding to list (1)
+0090.081 (0) finding files: languages: adding to list (2)
+0090.082 (0) finding files: mu-plugins: skipping: this is the mu-plugins directory
+0090.083 (0) finding files: plugins: skipping: this is the plugins directory
+0090.084 (0) finding files: themes: skipping: this is the themes directory
+0090.085 (0) finding files: updraft: skipping: this is the updraft directory
+0090.086 (0) finding files: upgrade: skipping: excluded by options
+0090.086 (0) finding files: upgrade-temp-backup: adding to list (3)
+0090.088 (0) finding files: uploads: skipping: this is the uploads directory
+0090.143 (0) Total entities for the zip file: 7 directories, 193 files (0 skipped as non-modified), 6.1 MB
+0090.183 (0) Zip: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0091.460 (0) Creating zip file manifest (backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-others.zip.list-temp.tmp)
+0091.464 (0) Successfully created zip file manifest (size: 14104)
+0091.501 (0) Created others zip (0) - 1796.1 KB in 1.4 s (1275.1 KB/s) (sha1: 86244b418c8d4bf9480cbc15f55d163e7318535c, sha256: f5f0e8d746bc9e69a29f1d87a51e91007ae12939852d8364068245db91bb90e5)
+0091.508 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0091.509 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-24d9b0481f960b9b5942a6f9399bb007)
+0091.762 (0) Google Drive: quota usage: used=1809 MB, total=15360 MB, available=13551 MB
+0091.763 (0) Google Drive: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-others.zip: Attempting to upload to Google Drive (into folder id: 1D0i4qUT-FR2X3YlVsM5RLrQH05ST0oS1)
+0092.361 (0) Googledrive chunked upload: 57 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 78.3 / 82)
+0093.977 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0093.981 (0) Google Drive: OK: Archive backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-others.zip uploaded in 2.22 seconds
+0093.982 (0) Recording as successfully uploaded: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-others.zip
+0093.984 (0) Deleting local file: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-others.zip: OK
+0093.993 (0) Saving backup status to database (elements: 10)
+0093.996 (0) Beginning creation of database dump (WordPress DB)
+0093.997 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0094.024 (0) Table wp_options: Total expected rows (via COUNT): 448
+0094.025 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0094.060 (0) Table wp_options: Rows added in this batch (next record: 894): 444 (uncompressed bytes in this segment=1462695) in 0.04 seconds
+0094.078 (0) Table wp_options: finishing file(s) (2, 212.6 KB)
+0094.083 (0) Table wp_users: Total expected rows (via COUNT): 2
+0094.084 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0094.088 (0) Table wp_users: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1571) in 0.01 seconds
+0094.095 (0) Table wp_users: finishing file(s) (2, 0.7 KB)
+0094.101 (0) Table wp_usermeta: Total expected rows (via COUNT): 45
+0094.102 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0094.106 (0) Table wp_usermeta: Rows added in this batch (next record: 48): 45 (uncompressed bytes in this segment=4436) in 0.01 seconds
+0094.114 (0) Table wp_usermeta: finishing file(s) (2, 1.7 KB)
+0094.123 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0094.126 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=685) in 0.01 seconds
+0094.134 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0094.140 (0) Table wp_comments: Total expected rows (via COUNT): 0
+0094.143 (0) Table wp_comments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1705) in 0.00 seconds
+0094.150 (0) Table wp_comments: finishing file(s) (2, 0.5 KB)
+0094.158 (0) Table wp_links: Total expected rows (via COUNT): 0
+0094.159 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1310) in 0.00 seconds
+0094.165 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0094.181 (0) Table wp_postmeta: Total expected rows (approximate): 2485
+0094.206 (0) Table wp_postmeta: Rows added in this batch (next record: 2967): 2448 (uncompressed bytes in this segment=1231350) in 0.04 seconds
+0094.215 (0) Table wp_postmeta: finishing file(s) (2, 49.3 KB)
+0094.224 (0) Table wp_posts: Total expected rows (via COUNT): 343
+0094.225 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0094.236 (0) Table wp_posts: Rows added in this batch (next record: 392): 343 (uncompressed bytes in this segment=318038) in 0.02 seconds
+0094.245 (0) Table wp_posts: finishing file(s) (2, 15 KB)
+0094.250 (0) Table wp_term_relationships: Total expected rows (approximate): 9
+0094.253 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 15 (uncompressed bytes in this segment=893) in 0.00 seconds
+0094.260 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0094.266 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 10
+0094.267 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0094.270 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 10): 10 (uncompressed bytes in this segment=1287) in 0.01 seconds
+0094.279 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0094.288 (0) Table wp_termmeta: Total expected rows (via COUNT): 1
+0094.289 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0094.291 (0) Table wp_termmeta: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=735) in 0.01 seconds
+0094.299 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0094.304 (0) Table wp_terms: Total expected rows (via COUNT): 10
+0094.305 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0094.307 (0) Table wp_terms: Rows added in this batch (next record: 10): 10 (uncompressed bytes in this segment=1025) in 0.00 seconds
+0094.314 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0094.322 (0) Table wp_addonlibrary_addons: Total expected rows (via COUNT): 0
+0094.325 (0) Table wp_addonlibrary_addons: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1156) in 0.00 seconds
+0094.332 (0) Table wp_addonlibrary_addons: finishing file(s) (2, 0.5 KB)
+0094.340 (0) Table wp_addonlibrary_categories: Total expected rows (via COUNT): 0
+0094.342 (0) Table wp_addonlibrary_categories: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=784) in 0.00 seconds
+0094.348 (0) Table wp_addonlibrary_categories: finishing file(s) (2, 0.4 KB)
+0094.357 (0) Table wp_e_events: Total expected rows (via COUNT): 10
+0094.358 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0094.360 (0) Table wp_e_events: Rows added in this batch (next record: 10): 10 (uncompressed bytes in this segment=2534) in 0.00 seconds
+0094.367 (0) Table wp_e_events: finishing file(s) (2, 0.7 KB)
+0094.373 (0) Table wp_e_submissions: Total expected rows (via COUNT): 0
+0094.376 (0) Table wp_e_submissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2282) in 0.00 seconds
+0094.383 (0) Table wp_e_submissions: finishing file(s) (2, 0.7 KB)
+0094.391 (0) Table wp_e_submissions_actions_log: Total expected rows (via COUNT): 0
+0094.393 (0) Table wp_e_submissions_actions_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1251) in 0.00 seconds
+0094.400 (0) Table wp_e_submissions_actions_log: finishing file(s) (2, 0.5 KB)
+0094.409 (0) Table wp_e_submissions_values: Total expected rows (via COUNT): 0
+0094.410 (0) Table wp_e_submissions_values: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=724) in 0.00 seconds
+0094.418 (0) Table wp_e_submissions_values: finishing file(s) (2, 0.4 KB)
+0094.425 (0) Table wp_realmedialibrary: Total expected rows (via COUNT): 4
+0094.426 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0094.429 (0) Table wp_realmedialibrary: Rows added in this batch (next record: 8): 4 (uncompressed bytes in this segment=1553) in 0.00 seconds
+0094.435 (0) Table wp_realmedialibrary: finishing file(s) (2, 0.6 KB)
+0094.446 (0) Table wp_realmedialibrary_meta: Total expected rows (via COUNT): 0
+0094.448 (0) Table wp_realmedialibrary_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=772) in 0.00 seconds
+0094.457 (0) Table wp_realmedialibrary_meta: finishing file(s) (2, 0.4 KB)
+0094.464 (0) Table wp_realmedialibrary_posts: Total expected rows (approximate): 8
+0094.467 (0) Table wp_realmedialibrary_posts: Rows added in this batch (next record: 1000): 8 (uncompressed bytes in this segment=1025) in 0.00 seconds
+0094.474 (0) Table wp_realmedialibrary_posts: finishing file(s) (2, 0.5 KB)
+0094.482 (0) Table wp_realmedialibrary_tmp: Total expected rows (via COUNT): 0
+0094.483 (0) Table wp_realmedialibrary_tmp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=617) in 0.00 seconds
+0094.492 (0) Table wp_realmedialibrary_tmp: finishing file(s) (2, 0.4 KB)
+0094.501 (0) Table wp_yoast_indexable: Total expected rows (via COUNT): 18
+0094.502 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0094.507 (0) Table wp_yoast_indexable: Rows added in this batch (next record: 18): 18 (uncompressed bytes in this segment=16342) in 0.01 seconds
+0094.515 (0) Table wp_yoast_indexable: finishing file(s) (2, 2.8 KB)
+0094.522 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 14
+0094.524 (0) Table wp_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 14 (uncompressed bytes in this segment=1016) in 0.00 seconds
+0094.531 (0) Table wp_yoast_indexable_hierarchy: finishing file(s) (2, 0.4 KB)
+0094.539 (0) Table wp_yoast_migrations: Total expected rows (via COUNT): 24
+0094.540 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0094.543 (0) Table wp_yoast_migrations: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=1265) in 0.01 seconds
+0094.549 (0) Table wp_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0094.557 (0) Table wp_yoast_primary_term: Total expected rows (via COUNT): 0
+0094.560 (0) Table wp_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=858) in 0.00 seconds
+0094.566 (0) Table wp_yoast_primary_term: finishing file(s) (2, 0.4 KB)
+0094.574 (0) Table wp_yoast_seo_links: Total expected rows (via COUNT): 33
+0094.575 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0094.578 (0) Table wp_yoast_seo_links: Rows added in this batch (next record: 33): 33 (uncompressed bytes in this segment=5893) in 0.00 seconds
+0094.585 (0) Table wp_yoast_seo_links: finishing file(s) (2, 1.1 KB)
+0094.586 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\MAMP\htdocs\french_f1_league/wp-content/updraft/backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db.gz (line 1925, C:\MAMP\htdocs\french_f1_league\wp-content\plugins\updraftplus\backup.php)
+0094.589 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_options.table.tmpr895.gz (1/27/fopen): adding to final database dump
+0094.594 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_options.table.gz (2/27/fopen): adding to final database dump
+0094.595 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_users.table.tmpr3.gz (3/27/fopen): adding to final database dump
+0094.596 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_users.table.gz (4/27/fopen): adding to final database dump
+0094.597 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_usermeta.table.tmpr49.gz (5/27/fopen): adding to final database dump
+0094.598 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_usermeta.table.gz (6/27/fopen): adding to final database dump
+0094.599 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_commentmeta.table.tmpr0.gz (7/27/fopen): adding to final database dump
+0094.601 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_commentmeta.table.gz (8/27/fopen): adding to final database dump
+0094.602 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_comments.table.tmpr0.gz (9/27/fopen): adding to final database dump
+0094.603 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_comments.table.gz (10/27/fopen): adding to final database dump
+0094.604 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_links.table.tmpr0.gz (11/27/fopen): adding to final database dump
+0094.605 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_links.table.gz (12/27/fopen): adding to final database dump
+0094.607 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_postmeta.table.tmpr2968.gz (13/27/fopen): adding to final database dump
+0094.609 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_postmeta.table.gz (14/27/fopen): adding to final database dump
+0094.610 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_posts.table.tmpr393.gz (15/27/fopen): adding to final database dump
+0094.612 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_posts.table.gz (16/27/fopen): adding to final database dump
+0094.613 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_term_relationships.table.tmpr100001.gz (17/27/fopen): adding to final database dump
+0094.614 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_term_relationships.table.gz (18/27/fopen): adding to final database dump
+0094.615 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_term_taxonomy.table.tmpr11.gz (19/27/fopen): adding to final database dump
+0094.617 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_term_taxonomy.table.gz (20/27/fopen): adding to final database dump
+0094.618 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_termmeta.table.tmpr2.gz (21/27/fopen): adding to final database dump
+0094.619 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_termmeta.table.gz (22/27/fopen): adding to final database dump
+0094.620 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_terms.table.tmpr11.gz (23/27/fopen): adding to final database dump
+0094.621 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_terms.table.gz (24/27/fopen): adding to final database dump
+0094.622 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_addonlibrary_addons.table.tmpr0.gz (25/27/fopen): adding to final database dump
+0094.623 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_addonlibrary_addons.table.gz (26/27/fopen): adding to final database dump
+0094.624 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_addonlibrary_categories.table.tmpr0.gz (27/27/fopen): adding to final database dump
+0094.626 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_addonlibrary_categories.table.gz (28/27/fopen): adding to final database dump
+0094.627 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_e_events.table.tmpr11.gz (29/27/fopen): adding to final database dump
+0094.628 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_e_events.table.gz (30/27/fopen): adding to final database dump
+0094.629 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_e_submissions.table.tmpr0.gz (31/27/fopen): adding to final database dump
+0094.630 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_e_submissions.table.gz (32/27/fopen): adding to final database dump
+0094.631 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_e_submissions_actions_log.table.tmpr0.gz (33/27/fopen): adding to final database dump
+0094.633 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_e_submissions_actions_log.table.gz (34/27/fopen): adding to final database dump
+0094.634 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_e_submissions_values.table.tmpr0.gz (35/27/fopen): adding to final database dump
+0094.635 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_e_submissions_values.table.gz (36/27/fopen): adding to final database dump
+0094.636 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_realmedialibrary.table.tmpr9.gz (37/27/fopen): adding to final database dump
+0094.637 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_realmedialibrary.table.gz (38/27/fopen): adding to final database dump
+0094.638 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_realmedialibrary_meta.table.tmpr0.gz (39/27/fopen): adding to final database dump
+0094.639 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_realmedialibrary_meta.table.gz (40/27/fopen): adding to final database dump
+0094.641 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_realmedialibrary_posts.table.tmpr1001.gz (41/27/fopen): adding to final database dump
+0094.642 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_realmedialibrary_posts.table.gz (42/27/fopen): adding to final database dump
+0094.643 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_realmedialibrary_tmp.table.tmpr0.gz (43/27/fopen): adding to final database dump
+0094.644 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_realmedialibrary_tmp.table.gz (44/27/fopen): adding to final database dump
+0094.644 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_yoast_indexable.table.tmpr19.gz (45/27/fopen): adding to final database dump
+0094.646 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_yoast_indexable.table.gz (46/27/fopen): adding to final database dump
+0094.647 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_yoast_indexable_hierarchy.table.tmpr1001.gz (47/27/fopen): adding to final database dump
+0094.648 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_yoast_indexable_hierarchy.table.gz (48/27/fopen): adding to final database dump
+0094.649 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_yoast_migrations.table.tmpr25.gz (49/27/fopen): adding to final database dump
+0094.651 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_yoast_migrations.table.gz (50/27/fopen): adding to final database dump
+0094.652 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_yoast_primary_term.table.tmpr0.gz (51/27/fopen): adding to final database dump
+0094.653 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_yoast_primary_term.table.gz (52/27/fopen): adding to final database dump
+0094.655 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_yoast_seo_links.table.tmpr34.gz (53/27/fopen): adding to final database dump
+0094.657 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db-table-wp_yoast_seo_links.table.gz (54/27/fopen): adding to final database dump
+0094.667 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db.gz: finished writing out complete database file (292.9 KB)
+0094.682 (0) Total database tables backed up: 27 (backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db.gz, size: 300081, sha1: f9315cc1b12fb57cd11b3f913dd955f4ee75fc02, sha256: d03a1e92a319980fbe43b43deefc2e6148effbbb91399847ec660118ad3c6ff9)
+0094.688 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip: plugins: This file has already been successfully uploaded
+0094.689 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-themes.zip: themes: This file has already been successfully uploaded
+0094.690 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-uploads.zip: uploads: This file has already been successfully uploaded
+0094.691 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-mu-plugins.zip: mu-plugins: This file has already been successfully uploaded
+0094.692 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-others.zip: others: This file has already been successfully uploaded
+0094.693 (0) backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db.gz: db: This file has not yet been successfully uploaded: will queue
+0094.694 (0) Saving backup history. Total backup size: 82.6 MB
+0094.697 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0094.700 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0094.702 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-24d9b0481f960b9b5942a6f9399bb007)
+0095.182 (0) Google Drive: quota usage: used=1810.8 MB, total=15360 MB, available=13549.2 MB
+0095.183 (0) Google Drive: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db.gz: Attempting to upload to Google Drive (into folder id: 1D0i4qUT-FR2X3YlVsM5RLrQH05ST0oS1)
+0096.767 (0) Googledrive chunked upload: 100 % uploaded
+0096.772 (0) Google Drive: OK: Archive backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db.gz uploaded in 1.59 seconds
+0096.773 (0) Recording as successfully uploaded: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db.gz
+0096.776 (0) Deleting local file: backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-db.gz: OK
+0096.779 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0096.780 (0) Number of backup sets in history: 3; groups (db): 1
+0096.781 (0) Examining (for databases) backup set with group_id=0, nonce=3a70fa041ffa, datestamp=1711648457 (Mar 28 2024 17:54:17)
+0096.782 (0) This backup set is the backup set just made, so will not be deleted.
+0096.782 (0) Examining (for databases) backup set with group_id=0, nonce=6025b48f4e47, datestamp=1711559412 (Mar 27 2024 17:10:12)
+0096.782 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0096.782 (0) Examining (for databases) backup set with group_id=0, nonce=0b527ee88611, datestamp=1708108256 (Feb 16 2024 18:30:56)
+0096.782 (0) 1708108256: db: this set includes a database (backup_2024-02-16-1930_French_F1_League_0b527ee88611-db.gz); db count is now 2
+0096.782 (0) 1708108256: db: over retain limit (2); will delete this database
+0098.501 (0) Google Drive: backup_2024-02-16-1930_French_F1_League_0b527ee88611-db.gz: Deletion successful
+0098.506 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0098.507 (0) Number of backup sets in history: 3; groups (files): 1
+0098.508 (0) Examining (for files) backup set with nonce=3a70fa041ffa, datestamp=1711648457 (Mar 28 2024 17:54:17)
+0098.508 (0) This backup set is the backup set just made, so will not be deleted.
+0098.509 (0) This backup set is the backup set just made, so will not be deleted.
+0098.509 (0) This backup set is the backup set just made, so will not be deleted.
+0098.509 (0) This backup set is the backup set just made, so will not be deleted.
+0098.509 (0) This backup set is the backup set just made, so will not be deleted.
+0098.509 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0098.510 (0) Examining (for files) backup set with nonce=6025b48f4e47, datestamp=1711559412 (Mar 27 2024 17:10:12)
+0098.510 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0098.510 (0) Examining (for files) backup set with nonce=0b527ee88611, datestamp=1708108256 (Feb 16 2024 18:30:56)
+0098.510 (0) plugins: over retain limit (2); will delete this file entity
+0098.510 (0) themes: over retain limit (2); will delete this file entity
+0098.510 (0) uploads: over retain limit (2); will delete this file entity
+0098.510 (0) mu-plugins: over retain limit (2); will delete this file entity
+0098.510 (0) others: over retain limit (2); will delete this file entity
+0099.774 (0) Google Drive: backup_2024-02-16-1930_French_F1_League_0b527ee88611-others.zip: Deletion successful
+0100.361 (0) Google Drive: backup_2024-02-16-1930_French_F1_League_0b527ee88611-mu-plugins.zip: Deletion successful
+0100.905 (0) Google Drive: backup_2024-02-16-1930_French_F1_League_0b527ee88611-uploads.zip: Deletion successful
+0101.963 (0) Google Drive: backup_2024-02-16-1930_French_F1_League_0b527ee88611-themes.zip: Deletion successful
+0102.829 (0) Google Drive: backup_2024-02-16-1930_French_F1_League_0b527ee88611-plugins.zip: Deletion successful
+0102.833 (0) This backup set is now empty; will remove from history
+0102.834 (0) Corresponding log file (log.0b527ee88611.txt) not found - must have already been deleted
+0102.835 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0102.839 (0) Resume backup (3a70fa041ffa, 0): finish run
+0102.841 (0) Decremented the semaphore (fd) by 1
+0102.843 (0) Semaphore (fd) unlocked
+0102.844 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0102.847 (0) The backup succeeded and is now complete
+0102.848 (0) Deleting zip manifest (backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-plugins.zip.list.tmp)
+0102.849 (0) Deleting zip manifest (backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-themes.zip.list.tmp)
+0102.850 (0) Deleting zip manifest (backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-uploads.zip.list.tmp)
+0102.852 (0) Deleting zip manifest (backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-mu-plugins.zip.list.tmp)
+0102.854 (0) Deleting zip manifest (backup_2024-03-28-1854_French_F1_League_3a70fa041ffa-others.zip.list.tmp)
+0102.856 (0) No email will/can be sent - the user has not configured an email address.
+0102.857 (0) La sauvegarde a réussi et est maintenant terminée
