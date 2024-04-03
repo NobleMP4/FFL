@@ -16,8 +16,8 @@ define( 'WP_ALLOW_REPAIR', false );
 
 # BEGIN SecuPress locations
 define( 'RELOCATE', false );
-define( 'WP_SITEURL', 'http://localhost/French_F1_League' );
-define( 'WP_HOME', 'http://localhost/French_F1_League' );
+define( 'WP_SITEURL', 'https://frenchf1league.ezhost-app.com/' );
+define( 'WP_HOME', 'https://frenchf1league.ezhost-app.com/' );
 # END SecuPress
 
 
@@ -58,16 +58,16 @@ define( 'ALLOW_UNFILTERED_UPLOADS', false );
 
 // ** Réglages MySQL - Votre hébergeur doit vous fournir ces informations. ** //
 /** Nom de la base de données de WordPress. */
-define( 'DB_NAME', 'nobleffl' );
+define( 'DB_NAME', 'esteband5' );
 
 /** Utilisateur de la base de données MySQL. */
-define( 'DB_USER', 'Noble' );
+define( 'DB_USER', 'esteband' );
 
 /** Mot de passe de la base de données MySQL. */
-define( 'DB_PASSWORD', 'FFL-YZVZUZVDJSDIDBZOD' );
+define( 'DB_PASSWORD', '6kD6XE325aXwpc' );
 
 /** Adresse de l’hébergement MySQL. */
-define( 'DB_HOST', '173.212.211.173:3306' );
+define( 'DB_HOST', 'lc1000648-003.eu.clouddb.ovh.net:35808' );
 
 /** Jeu de caractères à utiliser par la base de données lors de la création des tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
